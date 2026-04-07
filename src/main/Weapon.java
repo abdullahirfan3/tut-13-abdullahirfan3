@@ -14,7 +14,7 @@ public class Weapon extends Loot {
     }
 
     @Override
-    public String asCsvRecord() {
+    public String asCSvRow() {
         return "Weapon," + getName() + "," + getRarity() + "," + damage;
     }
 }

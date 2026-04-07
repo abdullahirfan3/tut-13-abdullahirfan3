@@ -21,9 +21,10 @@ public String getRarity() {
 
 public abstract String getEffectDescription();
 
-}
+
 public abstract String asCSvRow();
 
 }
 
-}
+
+
