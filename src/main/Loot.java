@@ -19,10 +19,10 @@ public String getRarity() {
     return rarity;
 }
 
-public abstract String getEffectDescription() {
+public abstract String getEffectDescription();
 
 }
-public abstract String asCSvRow() {
+public abstract String asCSvRow();
 
 }
 
