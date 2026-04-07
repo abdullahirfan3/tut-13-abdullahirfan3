@@ -2,7 +2,7 @@ package main;
 
 import java.util.ArrayList;
 import java.io.FileNotFoundException;
-
+// comment
 /**
  * Manages the inventory of RPG Loot.
  */
