@@ -14,7 +14,7 @@ public class Consumable extends Loot {
     }
 
     @Override
-    public String asCSvRow() {
+    public String asCsvRow() {
         return "Consumable," + getName() + "," + getRarity() + "," + restoreAmount;
     }
     
